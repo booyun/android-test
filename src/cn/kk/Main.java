@@ -1,5 +1,7 @@
 package cn.kk;
-
+/**
+ * @author Alex
+ * **/
 import android.app.Activity;
 import android.os.Bundle;
 
